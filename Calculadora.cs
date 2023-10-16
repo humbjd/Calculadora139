@@ -1,5 +1,5 @@
 ﻿// 1 - Namespace = Conjunto de Classe
-namespace Calculadora;
+namespace Calc;
 
 // 2 - Bibliotecas = Conjunto de funções prontas
 

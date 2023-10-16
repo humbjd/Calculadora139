@@ -12,3 +12,17 @@ D:\ESTUDO\ITERASYS\FTS139\Calculadora139\obj\Debug\net7.0\refint\Calculadora139.
 D:\ESTUDO\ITERASYS\FTS139\Calculadora139\obj\Debug\net7.0\Calculadora139.pdb
 D:\ESTUDO\ITERASYS\FTS139\Calculadora139\obj\Debug\net7.0\Calculadora139.genruntimeconfig.cache
 D:\ESTUDO\ITERASYS\FTS139\Calculadora139\obj\Debug\net7.0\ref\Calculadora139.dll
+D:\ESTUDO\ITERASYS\FTS139\ProjetoCalculadora\Calculadora139\bin\Debug\net7.0\Calculadora139.exe
+D:\ESTUDO\ITERASYS\FTS139\ProjetoCalculadora\Calculadora139\bin\Debug\net7.0\Calculadora139.deps.json
+D:\ESTUDO\ITERASYS\FTS139\ProjetoCalculadora\Calculadora139\bin\Debug\net7.0\Calculadora139.runtimeconfig.json
+D:\ESTUDO\ITERASYS\FTS139\ProjetoCalculadora\Calculadora139\bin\Debug\net7.0\Calculadora139.dll
+D:\ESTUDO\ITERASYS\FTS139\ProjetoCalculadora\Calculadora139\bin\Debug\net7.0\Calculadora139.pdb
+D:\ESTUDO\ITERASYS\FTS139\ProjetoCalculadora\Calculadora139\obj\Debug\net7.0\Calculadora139.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTUDO\ITERASYS\FTS139\ProjetoCalculadora\Calculadora139\obj\Debug\net7.0\Calculadora139.AssemblyInfoInputs.cache
+D:\ESTUDO\ITERASYS\FTS139\ProjetoCalculadora\Calculadora139\obj\Debug\net7.0\Calculadora139.AssemblyInfo.cs
+D:\ESTUDO\ITERASYS\FTS139\ProjetoCalculadora\Calculadora139\obj\Debug\net7.0\Calculadora139.csproj.CoreCompileInputs.cache
+D:\ESTUDO\ITERASYS\FTS139\ProjetoCalculadora\Calculadora139\obj\Debug\net7.0\Calculadora139.dll
+D:\ESTUDO\ITERASYS\FTS139\ProjetoCalculadora\Calculadora139\obj\Debug\net7.0\refint\Calculadora139.dll
+D:\ESTUDO\ITERASYS\FTS139\ProjetoCalculadora\Calculadora139\obj\Debug\net7.0\Calculadora139.pdb
+D:\ESTUDO\ITERASYS\FTS139\ProjetoCalculadora\Calculadora139\obj\Debug\net7.0\Calculadora139.genruntimeconfig.cache
+D:\ESTUDO\ITERASYS\FTS139\ProjetoCalculadora\Calculadora139\obj\Debug\net7.0\ref\Calculadora139.dll
