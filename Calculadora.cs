@@ -21,7 +21,7 @@ public class Calculadora
 
     } // fim da função somarDoisNumeros
 
-    public int subtrairDoisNumeros(int num1, num2)
+    public int subtrairDoisNumeros(int num1, int num2)
     {
         return num1 - num2;
     } // fim da função subtrairDoisNumeros
