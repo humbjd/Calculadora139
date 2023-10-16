@@ -36,6 +36,23 @@ public class Calculadora
         return num1 / num2;
     } // fim da função dividirDoisNumeros
 
+    public static int dividirDoisNumerosPorZero(int num1, int num2)
+    {
+        try // tentar realizar as seguintes operações
+        {
+            return num1 / num2;
+        }
+        catch(System.DivideByZeroException) // se der errado, faça isso:
+        {
+
+            Console.WriteLine("Não é possível dividir por zero");
+            return 0;
+            
+        }
+        
+
+    } // fim da função dividirDoisNumerosPorZero
+
     public  static void Main()
     {
         // chamar as 4 operações
