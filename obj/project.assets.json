@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ESTUDO\\ITERASYS\\FTS139\\Calculadora139\\Calculadora139.csproj",
+      "projectUniqueName": "D:\\ESTUDO\\ITERASYS\\FTS139\\ProjetoCalculadora\\Calculadora139\\Calculadora139.csproj",
       "projectName": "Calculadora139",
-      "projectPath": "D:\\ESTUDO\\ITERASYS\\FTS139\\Calculadora139\\Calculadora139.csproj",
+      "projectPath": "D:\\ESTUDO\\ITERASYS\\FTS139\\ProjetoCalculadora\\Calculadora139\\Calculadora139.csproj",
       "packagesPath": "C:\\Users\\hjdan\\.nuget\\packages\\",
-      "outputPath": "D:\\ESTUDO\\ITERASYS\\FTS139\\Calculadora139\\obj\\",
+      "outputPath": "D:\\ESTUDO\\ITERASYS\\FTS139\\ProjetoCalculadora\\Calculadora139\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hjdan\\AppData\\Roaming\\NuGet\\NuGet.Config"
