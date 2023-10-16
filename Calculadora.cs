@@ -36,4 +36,15 @@ public class Calculadora
         return num1 / num2;
     } // fim da função dividirDoisNumeros
 
+    public void main()
+    {
+        // chamar as 4 operações
+        Console.WriteLine("5 + 7 = " + somarDoisNumeros(5,7));
+        Console.WriteLine("5 - 7 = " + subtrairDoisNumeros(5,7));
+        Console.WriteLine("5 * 7 = " + multiplicarDoisNumeros(5,7));
+        Console.WriteLine("5 / 7 = " + dividirDoisNumeros(5,7));
+        
+    }
+
+
 } // fim da classe
